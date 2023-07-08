@@ -16,7 +16,7 @@ axios.defaults.headers.common["User-Agent"] =
 
 app.use(cors());
 app.get("/", async (req, res) => {
-  res.send("ANIYOI API IS UP 🚀");
+  res.send("COMPTUTOR API IS UP 🚀");
 });
 app.use("/kuramanime", kuramanime);
 app.use("/nanime", nanime);
