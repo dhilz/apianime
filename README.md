@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/miukyo/aniyoi-api">
-    <img src="https://media.tenor.com/3S9l9HzhGVcAAAAC/shake-kaninayuta.gif" alt="Logo" width="200" height="200">
+    <img src="[https://media.tenor.com/3S9l9HzhGVcAAAAC/shake-kaninayuta.gif](https://tenor.com/bQB4e.gif)" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Aniyoi API</h3>
