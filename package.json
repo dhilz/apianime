@@ -1,8 +1,8 @@
 {
-  "name": "aniyoi-api",
+  "name": "comptutor",
   "version": "1.0.0",
-  "description": "Anime Scrapper",
-  "author": "miukyo",
+  "description": "Comptutor anime api",
+  "author": "Muhammad Fadollah",
   "main": "src/index.ts",
   "license": "MIT",
   "scripts": {
