@@ -1,13 +1,12 @@
 <p align="center">
-  <a href="https://github.com/miukyo/aniyoi-api">
-    <img src="[https://media.tenor.com/3S9l9HzhGVcAAAAC/shake-kaninayuta.gif](https://tenor.com/bQB4e.gif)" alt="Logo" width="200" height="200">
+  <a href="https://github.com/dhilz">
+    <img src="https://media.tenor.com/pF3s48bhdIsAAAAd/marin-kitagawa-anime-shy.gif" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Aniyoi API</h3>
+  <h3 align="center">Comptutor Anime Api</h3>
 
   <p align="center">
     <b>RESTFUL API Streaming Anime Subtitle Indonesia</b><br />
-    <span>API ini masih dalam pembuatan jadi mungkin akan rawan error, Jika kalian tertarik untuk membantu bisa dm saya di discord <a href="https://discord.com/users/395407295867256833">miukyo#8967</a></span>
     <br />
 </p>
 
@@ -35,8 +34,8 @@
 Run command berikut untuk mengclone repo ini, dan menginstall dependencies:
 
 ```sh
-git clone https://github.com/miukyo/aniyoi-api.git
-cd aniyoi-api
+git clone https://github.com/dhilz/animeapi.git
+cd animeapi
 npm install #atau yarn install
 ```
 
